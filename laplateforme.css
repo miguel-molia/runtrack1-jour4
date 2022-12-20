@@ -1,0 +1,66 @@
+.repere
+{display:flex;
+flex-direction: row;
+justify-content: space-around;
+background-color: teal;
+color: #ffdb4d;
+font-family: 'Montserrat', sans-serif;
+font-weight: bold;
+font-size: 1.2em;
+height: 40px;
+align-items: center;
+}
+
+body
+{background-color: #ffff80;
+    margin: 0;
+    padding: 0;}
+
+a
+{color: #ffdb4d;
+text-decoration: none;
+}
+
+a:hover{
+    opacity: 0.5
+}
+
+.repere1
+{font-family:Arial, Helvetica, sans-serif;
+ text-align: center;   
+
+}
+
+.repere2
+{text-align: center;
+ font-family:Arial, Helvetica, sans-serif;
+ 
+}
+
+.repere3
+{text-align: center;
+font-family:Arial, Helvetica, sans-serif;
+font-size: 1.5em;
+font-weight: bold;
+height: 50%;}
+
+#laplateforme
+{display: flex;
+align-items: center;}
+
+.conteneur
+{display:flex;
+ justify-content: center;
+ font-size: 20px;
+}
+
+.imglaplateforme
+{display: flex;
+justify-content: center;
+}
+
+h1
+{text-align: center;
+font-family:Arial, Helvetica, sans-serif;
+font-size: 1.5em;
+font-weight: bold;}
